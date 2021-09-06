@@ -1,0 +1,15 @@
+# github.com/elastic/go-elasticsearch/v7 v7.14.0
+## explicit
+github.com/elastic/go-elasticsearch/v7
+github.com/elastic/go-elasticsearch/v7/esapi
+github.com/elastic/go-elasticsearch/v7/estransport
+github.com/elastic/go-elasticsearch/v7/internal/version
+# github.com/elastic/go-elasticsearch/v8 v8.0.0-20210823151005-3b1f3aef208c
+## explicit
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/olivere/elastic/v7 v7.0.28
+## explicit
+# gopkg.in/olivere/elastic.v5 v5.0.86
+## explicit
